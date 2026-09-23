@@ -1,0 +1,5 @@
+app.spec
+produtos.db
+build/
+dist/
+__pycache__/
